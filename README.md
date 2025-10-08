@@ -1,6 +1,6 @@
-The projects live Linke
+The projects live Link
 
-## Upload a Financil data of a company select the attributes you want to extract and submit
+## Upload a Financial data of a company select the attributes you want to extract and submit
 ## The Result you will see on the right side
 
 ## APP:
